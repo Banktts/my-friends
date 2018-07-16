@@ -1,1 +1,2 @@
-print('ken so fucking handsome')
+while True :
+    print('ken so fucking handsome')
